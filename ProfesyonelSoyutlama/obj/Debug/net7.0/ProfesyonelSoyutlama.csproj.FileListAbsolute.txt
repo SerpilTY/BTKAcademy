@@ -1,0 +1,15 @@
+C:\Users\HP\git\EnginHoca\BTKAkademi\ProfesyonelSoyutlama\bin\Debug\net7.0\ProfesyonelSoyutlama.exe
+C:\Users\HP\git\EnginHoca\BTKAkademi\ProfesyonelSoyutlama\bin\Debug\net7.0\ProfesyonelSoyutlama.deps.json
+C:\Users\HP\git\EnginHoca\BTKAkademi\ProfesyonelSoyutlama\bin\Debug\net7.0\ProfesyonelSoyutlama.runtimeconfig.json
+C:\Users\HP\git\EnginHoca\BTKAkademi\ProfesyonelSoyutlama\bin\Debug\net7.0\ProfesyonelSoyutlama.dll
+C:\Users\HP\git\EnginHoca\BTKAkademi\ProfesyonelSoyutlama\bin\Debug\net7.0\ProfesyonelSoyutlama.pdb
+C:\Users\HP\git\EnginHoca\BTKAkademi\ProfesyonelSoyutlama\obj\Debug\net7.0\ProfesyonelSoyutlama.csproj.AssemblyReference.cache
+C:\Users\HP\git\EnginHoca\BTKAkademi\ProfesyonelSoyutlama\obj\Debug\net7.0\ProfesyonelSoyutlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\EnginHoca\BTKAkademi\ProfesyonelSoyutlama\obj\Debug\net7.0\ProfesyonelSoyutlama.AssemblyInfoInputs.cache
+C:\Users\HP\git\EnginHoca\BTKAkademi\ProfesyonelSoyutlama\obj\Debug\net7.0\ProfesyonelSoyutlama.AssemblyInfo.cs
+C:\Users\HP\git\EnginHoca\BTKAkademi\ProfesyonelSoyutlama\obj\Debug\net7.0\ProfesyonelSoyutlama.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\EnginHoca\BTKAkademi\ProfesyonelSoyutlama\obj\Debug\net7.0\ProfesyonelSoyutlama.dll
+C:\Users\HP\git\EnginHoca\BTKAkademi\ProfesyonelSoyutlama\obj\Debug\net7.0\refint\ProfesyonelSoyutlama.dll
+C:\Users\HP\git\EnginHoca\BTKAkademi\ProfesyonelSoyutlama\obj\Debug\net7.0\ProfesyonelSoyutlama.pdb
+C:\Users\HP\git\EnginHoca\BTKAkademi\ProfesyonelSoyutlama\obj\Debug\net7.0\ProfesyonelSoyutlama.genruntimeconfig.cache
+C:\Users\HP\git\EnginHoca\BTKAkademi\ProfesyonelSoyutlama\obj\Debug\net7.0\ref\ProfesyonelSoyutlama.dll
