@@ -4,7 +4,7 @@ class Program
     static void Main(string[] args)
     {
         CustomerManager cm=new CustomerManager();
-        cm.Logger=new DatabaseLogger();
+        cm.Logger=new SmsLogger();
         cm.Add();
     }
 }
@@ -22,6 +22,13 @@ class DatabaseLogger:ILogger{
 
     public void Log(){
         System.Console.WriteLine("Logged To DB!");
+    }
+}
+class SmsLogger : ILogger
+{
+    public void Log()
+    {
+        System.Console.WriteLine("Logged To SMS!");
     }
 }
 class FileLogger : ILogger

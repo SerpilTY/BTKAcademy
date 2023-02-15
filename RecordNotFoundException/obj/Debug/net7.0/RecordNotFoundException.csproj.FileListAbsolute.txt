@@ -1,0 +1,15 @@
+C:\Users\HP\git\EnginHoca\BTKAkademi\RecordNotFoundException\bin\Debug\net7.0\RecordNotFoundException.exe
+C:\Users\HP\git\EnginHoca\BTKAkademi\RecordNotFoundException\bin\Debug\net7.0\RecordNotFoundException.deps.json
+C:\Users\HP\git\EnginHoca\BTKAkademi\RecordNotFoundException\bin\Debug\net7.0\RecordNotFoundException.runtimeconfig.json
+C:\Users\HP\git\EnginHoca\BTKAkademi\RecordNotFoundException\bin\Debug\net7.0\RecordNotFoundException.dll
+C:\Users\HP\git\EnginHoca\BTKAkademi\RecordNotFoundException\bin\Debug\net7.0\RecordNotFoundException.pdb
+C:\Users\HP\git\EnginHoca\BTKAkademi\RecordNotFoundException\obj\Debug\net7.0\RecordNotFoundException.csproj.AssemblyReference.cache
+C:\Users\HP\git\EnginHoca\BTKAkademi\RecordNotFoundException\obj\Debug\net7.0\RecordNotFoundException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\git\EnginHoca\BTKAkademi\RecordNotFoundException\obj\Debug\net7.0\RecordNotFoundException.AssemblyInfoInputs.cache
+C:\Users\HP\git\EnginHoca\BTKAkademi\RecordNotFoundException\obj\Debug\net7.0\RecordNotFoundException.AssemblyInfo.cs
+C:\Users\HP\git\EnginHoca\BTKAkademi\RecordNotFoundException\obj\Debug\net7.0\RecordNotFoundException.csproj.CoreCompileInputs.cache
+C:\Users\HP\git\EnginHoca\BTKAkademi\RecordNotFoundException\obj\Debug\net7.0\RecordNotFoundException.dll
+C:\Users\HP\git\EnginHoca\BTKAkademi\RecordNotFoundException\obj\Debug\net7.0\refint\RecordNotFoundException.dll
+C:\Users\HP\git\EnginHoca\BTKAkademi\RecordNotFoundException\obj\Debug\net7.0\RecordNotFoundException.pdb
+C:\Users\HP\git\EnginHoca\BTKAkademi\RecordNotFoundException\obj\Debug\net7.0\RecordNotFoundException.genruntimeconfig.cache
+C:\Users\HP\git\EnginHoca\BTKAkademi\RecordNotFoundException\obj\Debug\net7.0\ref\RecordNotFoundException.dll
