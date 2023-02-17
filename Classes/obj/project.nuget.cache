@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fri6A+fm4Tp7kgzm7ns0+176IayXG63v8DU+Fh8z/NVhmeuklVKZgY6EcjMoWb8ta1zFF2iXoSCLvGmXFOrS1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\CSharpCourse\\Classes\\Classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

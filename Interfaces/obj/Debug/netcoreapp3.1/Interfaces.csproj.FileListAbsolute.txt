@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\CSharpCourse\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\HP\source\repos\CSharpCourse\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\HP\source\repos\CSharpCourse\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\HP\source\repos\CSharpCourse\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharpCourse\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\HP\source\repos\CSharpCourse\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\HP\source\repos\CSharpCourse\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharpCourse\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharpCourse\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharpCourse\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharpCourse\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharpCourse\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\HP\source\repos\CSharpCourse\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\HP\source\repos\CSharpCourse\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharpCourse\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.exe
+C:\Users\HP\source\repos\CSharpCourse\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.deps.json
+C:\Users\HP\source\repos\CSharpCourse\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.json
+C:\Users\HP\source\repos\CSharpCourse\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharpCourse\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\HP\source\repos\CSharpCourse\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\Users\HP\source\repos\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\HP\source\repos\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\Users\HP\source\repos\CSharpCourse\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.genruntimeconfig.cache

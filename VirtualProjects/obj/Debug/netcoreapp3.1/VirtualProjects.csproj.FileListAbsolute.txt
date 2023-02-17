@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\CSharpCourse\VirtualProjects\bin\Debug\netcoreapp3.1\VirtualProjects.exe
+C:\Users\HP\source\repos\CSharpCourse\VirtualProjects\bin\Debug\netcoreapp3.1\VirtualProjects.deps.json
+C:\Users\HP\source\repos\CSharpCourse\VirtualProjects\bin\Debug\netcoreapp3.1\VirtualProjects.runtimeconfig.json
+C:\Users\HP\source\repos\CSharpCourse\VirtualProjects\bin\Debug\netcoreapp3.1\VirtualProjects.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharpCourse\VirtualProjects\bin\Debug\netcoreapp3.1\VirtualProjects.dll
+C:\Users\HP\source\repos\CSharpCourse\VirtualProjects\bin\Debug\netcoreapp3.1\VirtualProjects.pdb
+C:\Users\HP\source\repos\CSharpCourse\VirtualProjects\obj\Debug\netcoreapp3.1\VirtualProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharpCourse\VirtualProjects\obj\Debug\netcoreapp3.1\VirtualProjects.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharpCourse\VirtualProjects\obj\Debug\netcoreapp3.1\VirtualProjects.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharpCourse\VirtualProjects\obj\Debug\netcoreapp3.1\VirtualProjects.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharpCourse\VirtualProjects\obj\Debug\netcoreapp3.1\VirtualProjects.dll
+C:\Users\HP\source\repos\CSharpCourse\VirtualProjects\obj\Debug\netcoreapp3.1\VirtualProjects.pdb
+C:\Users\HP\source\repos\CSharpCourse\VirtualProjects\obj\Debug\netcoreapp3.1\VirtualProjects.genruntimeconfig.cache

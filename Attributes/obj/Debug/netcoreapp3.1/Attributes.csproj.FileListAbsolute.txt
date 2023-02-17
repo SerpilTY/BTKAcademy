@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\CSharpCourse\Attributes\bin\Debug\netcoreapp3.1\Attributes.exe
+C:\Users\HP\source\repos\CSharpCourse\Attributes\bin\Debug\netcoreapp3.1\Attributes.deps.json
+C:\Users\HP\source\repos\CSharpCourse\Attributes\bin\Debug\netcoreapp3.1\Attributes.runtimeconfig.json
+C:\Users\HP\source\repos\CSharpCourse\Attributes\bin\Debug\netcoreapp3.1\Attributes.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CSharpCourse\Attributes\bin\Debug\netcoreapp3.1\Attributes.dll
+C:\Users\HP\source\repos\CSharpCourse\Attributes\bin\Debug\netcoreapp3.1\Attributes.pdb
+C:\Users\HP\source\repos\CSharpCourse\Attributes\obj\Debug\netcoreapp3.1\Attributes.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharpCourse\Attributes\obj\Debug\netcoreapp3.1\Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharpCourse\Attributes\obj\Debug\netcoreapp3.1\Attributes.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharpCourse\Attributes\obj\Debug\netcoreapp3.1\Attributes.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharpCourse\Attributes\obj\Debug\netcoreapp3.1\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharpCourse\Attributes\obj\Debug\netcoreapp3.1\Attributes.dll
+C:\Users\HP\source\repos\CSharpCourse\Attributes\obj\Debug\netcoreapp3.1\Attributes.pdb
+C:\Users\HP\source\repos\CSharpCourse\Attributes\obj\Debug\netcoreapp3.1\Attributes.genruntimeconfig.cache
