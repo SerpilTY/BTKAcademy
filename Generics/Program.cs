@@ -36,7 +36,7 @@ namespace Generics
     }
    
 
-    //Eğer değer tip kısıtı koymak isteseydim T:struct yazmalıydım.
+    //Eğer değer tip kısıtı koymak isteseydim T:struct yazmalıydım. new() her zaman en sona yazılır.
     interface IRepository<T> where T: class,IEntity,new()
     {
         List<T> GetAll();

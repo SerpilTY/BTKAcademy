@@ -25,7 +25,7 @@ namespace Reflection
 
             var metodlar = tip.GetMethods();
 
-            foreach (var info in metodlar)
+            foreach (var info in metodlar) //to get method names or parameters or attributes
             {
                 Console.WriteLine("Metod adı:{0}", info.Name);
                 foreach(var parameterInfo in info.GetParameters())
