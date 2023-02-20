@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\CSharpCourse\\Inheritance\\Inheritance.csproj": {}
+    "C:\\Users\\HP\\git\\EnginHoca\\BTKAkademi\\Inheritance\\Inheritance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\CSharpCourse\\Inheritance\\Inheritance.csproj": {
+    "C:\\Users\\HP\\git\\EnginHoca\\BTKAkademi\\Inheritance\\Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\CSharpCourse\\Inheritance\\Inheritance.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\git\\EnginHoca\\BTKAkademi\\Inheritance\\Inheritance.csproj",
         "projectName": "Inheritance",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\CSharpCourse\\Inheritance\\Inheritance.csproj",
+        "projectPath": "C:\\Users\\HP\\git\\EnginHoca\\BTKAkademi\\Inheritance\\Inheritance.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\CSharpCourse\\Inheritance\\obj\\",
+        "outputPath": "C:\\Users\\HP\\git\\EnginHoca\\BTKAkademi\\Inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

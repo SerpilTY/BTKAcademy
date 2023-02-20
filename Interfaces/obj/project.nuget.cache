@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1BRkylcvADAoRdT87oUeqivlhudVqFj+8YHYyk3VHTQ7mQH86sWx040JJRt6Fd2/L3Io+/Wol1SZhHAmVFpiww==",
+  "dgSpecHash": "FSF8+H1relwDjf3b5QcQUVCcQpB/HDUpQKcw81xDE67x0jTJfuP+0ogAXSlHDswM+1d0t0NDeJTVRplfhiz98Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\CSharpCourse\\Interfaces\\Interfaces.csproj",
+  "projectFilePath": "C:\\Users\\HP\\git\\EnginHoca\\BTKAkademi\\Interfaces\\Interfaces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",

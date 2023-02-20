@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S3z+3QDmh+GETr5XkCws/VbOy0dBd+BXgXaNaULchgqA4Tzmj2H3iQm9M1DWeSen84TH5px7evlgmXEPDCPWOg==",
+  "dgSpecHash": "gAp4EkZHBJjGIHoPi6fTv5rDsRPOxf4rQf87X6QWNpTW1URy/JxipzJ61q9iCZt4l+RJwNRxj16DgjIhW1nleQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\CSharpCourse\\Generics\\Generics.csproj",
+  "projectFilePath": "C:\\Users\\HP\\git\\EnginHoca\\BTKAkademi\\Generics\\Generics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",

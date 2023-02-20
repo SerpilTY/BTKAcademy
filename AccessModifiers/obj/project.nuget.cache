@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7dzXPmelTM9noqPjTjS5+HBk7PV2YR5O/9eJv3zXIGH3Fww//ALRDaUHk15aFEmyo+9mcALrFbOhv/vg1t/aYw==",
+  "dgSpecHash": "w+WT2InRacQrCnFdLAEs0n6x2ldrKHLlsiEvHryBK22vLBeWo2IVHHecOHPLzRgmfZ7dAB2NoShvsK0hPWOScw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\CSharpCourse\\AccessModifiers\\AccessModifiers.csproj",
+  "projectFilePath": "C:\\Users\\HP\\git\\EnginHoca\\BTKAkademi\\AccessModifiers\\AccessModifiers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",

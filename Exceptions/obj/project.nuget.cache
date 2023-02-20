@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vZ2b/z1siCXT4LM57mf9XoPNOpfR3ULz2tFWKaGFTCffGSVZvWTXnbcCGq3++urVBayaHFZRcQPjROd/5+SnTw==",
+  "dgSpecHash": "EEsqrBjFT13mrrniOe/oWPrhF9L2aZI9Sf5vbrao96xLGEciWnkr1ADJO7x71Rn9PjID3kgE0Fm4+Ol4LJESqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\CSharpCourse\\Exceptions\\Exceptions.csproj",
+  "projectFilePath": "C:\\Users\\HP\\git\\EnginHoca\\BTKAkademi\\Exceptions\\Exceptions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",

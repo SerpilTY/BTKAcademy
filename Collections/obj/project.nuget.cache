@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8wxNmJhIFw8asXOWjmAczelZcPCkb4/RM3qt+MKuV9pnpnPvgaqaDFaXMoJwkknnLch66pYdOrANl9/iUubH8A==",
+  "dgSpecHash": "N6VDq4ob0qDYT3kF4PAAii1DR9gJMBLqEcPrjsnDYrj5/yDdEmkoxk15eU3UxNXGyfqnXLaFdLycZP2/5VFz6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\CSharpCourse\\Collections\\Collections.csproj",
+  "projectFilePath": "C:\\Users\\HP\\git\\EnginHoca\\BTKAkademi\\Collections\\Collections.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",

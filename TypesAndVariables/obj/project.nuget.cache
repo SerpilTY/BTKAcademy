@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vBlWk4x4foCNcDWGhOXusEQUOF9uA0LJie7x5xsmwHPfUjxE1LqQa/KksrpI4BcFNxMM5YhK32dN4muEZYiNhQ==",
+  "dgSpecHash": "p0bYQRhpHH9tr+elluLXQB4S7dwflaC4yCwyM7gKHywdbpYA+ju+irHuLyoVMsrzgTLdDn2ShhWxvoaGHwiHwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\CSharpCourse\\TypesAndVariables\\TypesAndVariables.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\HP\\git\\EnginHoca\\BTKAkademi\\TypesAndVariables\\TypesAndVariables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

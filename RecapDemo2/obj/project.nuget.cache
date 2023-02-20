@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RI5U4NU7dO5tzCzvExeSR3LcQnTKPVdnkAGVb5BxXd7FF0G2gIm08Fl7eZUHEY9vh87FypiBjjt45L44H2iPpQ==",
+  "dgSpecHash": "oTVDuA6dbEimtF/iBFc98UfetFUdb1UNqgSPFSd3JmYeUGVa1L2ipxVEUdtOBLVbzvHPkrQrpc2juL+hC3uxPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\CSharpCourse\\RecapDemo2\\RecapDemo2.csproj",
+  "projectFilePath": "C:\\Users\\HP\\git\\EnginHoca\\BTKAkademi\\RecapDemo2\\RecapDemo2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
